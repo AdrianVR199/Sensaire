@@ -13,20 +13,7 @@ Desarrollado en:
 Dependencias:
 
     p5.serialport.js v0.0.1 2015-07-23
-    "firebase": "^8.1.1",
-    "react": "^17.0.1",
-    "react-bootstrap": "^1.4.0",
-    "react-dom": "^17.0.1",
-    "react-elastic-carousel": "^0.9.3",
-    "react-firebase": "^2.2.8",
-    "react-icons": "^3.11.0",
-    "react-modal": "^3.11.2",
-    "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.0",
-    "styled-components": "^5.2.1",
-    "@fortawesome/fontawesome-svg-core": "^1.2.32",
-    "@fortawesome/free-solid-svg-icons": "^5.15.1",
-    "@fortawesome/react-fontawesome": "^0.1.12",
+    
 ## Galeria
 
 ![7](https://user-images.githubusercontent.com/69731479/110887591-975d4e80-82b8-11eb-9d00-7027911684d9.gif)
