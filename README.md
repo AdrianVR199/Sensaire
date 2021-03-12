@@ -8,10 +8,11 @@ Desarrollar un sistema multimedia con computación física, que permita conocer 
 ## Acerca del proyecto
 Desarrollado en: 
   - JavaScript
+  - Arduino
 
 Dependencias:
 
-    "bootstrap": "^4.5.3",
+    p5.serialport.js v0.0.1 2015-07-23
     "firebase": "^8.1.1",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.0",
