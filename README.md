@@ -7,7 +7,7 @@ Desarrollar un sistema multimedia con computación física, que permita conocer 
 
 ## Acerca del proyecto
 Desarrollado en: 
-  - React: 17.0.1
+  - JavaScript
 
 Dependencias:
 
