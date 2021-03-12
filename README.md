@@ -9,6 +9,7 @@ Desarrollar un sistema multimedia con computación física, que permita conocer 
 Desarrollado en: 
   - JavaScript
   - Arduino
+  - Cayenne
 
 Dependencias:
 
