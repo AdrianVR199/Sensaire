@@ -16,8 +16,7 @@ Dependencias:
     
 ## Galeria
 
-![7](https://user-images.githubusercontent.com/69731479/110887591-975d4e80-82b8-11eb-9d00-7027911684d9.gif)
-![5](https://user-images.githubusercontent.com/69731479/110887593-97f5e500-82b8-11eb-9fc7-740bf39b0fc2.gif)
-![6](https://user-images.githubusercontent.com/69731479/110887597-988e7b80-82b8-11eb-83d2-4bae96e4e2bc.gif)
-![4](https://user-images.githubusercontent.com/69731479/110886884-57499c00-82b7-11eb-8392-2471cb056186.gif)
+![1](https://user-images.githubusercontent.com/42383412/110894347-b4e4e500-82c5-11eb-91a0-e484d642b093.JPG)
+![2](https://user-images.githubusercontent.com/42383412/110894410-d940c180-82c5-11eb-9b08-d78d67554ca4.JPG)
+![3](https://user-images.githubusercontent.com/42383412/110894576-19a03f80-82c6-11eb-9671-f1f4d63d3d99.JPG)
 
