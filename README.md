@@ -1,6 +1,6 @@
 # SensAire
 
-SensAire es un sistema multimedia que integra computación física, el cual permite realizar el procesamiento de la información de la calidad del aire a traves de diferentes dispositivos colocados en diferentes zonas de la ciudad de Cali, dichos dispositivos deben informar a las personas a su alrededor de que el aire en esta zona no es el mejor y asi poder dar una retroalimentacón del estado del aire tanto a ellos como a las autoridades.
+SensAire es un sistema multimedia que integra computación física, el cual permite realizar el procesamiento de la información de la calidad del aire a traves de diferentes dispositivos colocados en diferentes zonas de la ciudad de Cali, dichos dispositivos deben informar a las personas a su alrededor de que el aire en esta zona no es el mejor y asi poder dar una retroalimentacón del estado del aire tanto a ellos como a las autoridades. Para alertar a los ciudadanos, solo es cuestión de que se ubiquen cerca del dispositivo, y este mediante una señal auditiva y visual le avisará en que nivel de peligrosidad se encuentra el aire que lo rodea en el momento.
 
 ## Objetivo
 Desarrollar un sistema multimedia con computación física, que permita conocer el estado de aire en ciertas zonas determinadas de Cali para dar una retroalimentación a la comunidad.
