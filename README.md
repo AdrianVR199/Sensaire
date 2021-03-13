@@ -8,8 +8,8 @@ Desarrollar un sistema multimedia con computación física, que permita conocer 
 ## Acerca del proyecto
 Desarrollado en: 
   - JavaScript
-  - Arduino
-  - Cayenne
+  - Arduino 1.8.13
+  
 
 Dependencias:
 
